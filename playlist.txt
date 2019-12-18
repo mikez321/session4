@@ -1,0 +1,15 @@
+Playlist
+
+
+
+number_of_tracks (500)
+playlist ("rad_tracks")
+current_song ("cocoa_butter_kisses")
+genre (["pop", "hip_hop", "rock"])
+
+
+
+
+
+add_twang (["country_music", "pop", "hip_hop", "rock"])
+number_of_tracks (500 + 20 = 520)

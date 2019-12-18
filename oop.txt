@@ -1,0 +1,15 @@
+Playlist
+
+Attributes:
+
+number_of_tracks (integer)
+playlist_name (string)
+current_song (string)
+genre (array)
+is_paused (boolean)
+
+
+count_tracks (returns number_of_tracks in playlist)
+play (change is_paused to "false")
+add_twang (adds country_music to beginning of genre array)
+add_new_album (adds 20 to number_of_tracks)

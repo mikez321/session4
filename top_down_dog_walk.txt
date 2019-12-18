@@ -1,0 +1,27 @@
+How to Walk a Dog:
+
+1 Get Yourself Prepared
+  1.1 Get items for Dog
+    1.1.1 Get Water
+      1.1.1.1 Get Water Bowl
+      1.1.1.2 Get water bottle
+    1.1.2 Get Treats
+      1.1.2.1 Get treat pouch
+      1.1.2.2 Fill Treat pouch
+    1.1.3 Get Dog Bags
+      1.1.3.1 Check existing roll
+  1.2 Choose Route
+    1.2.1 Map Route
+  1.3 Put on shoes
+
+2 Get doggo Prepared
+  2.1 Put on Leash
+    2.1.1 Put on collar
+      2.1.1.1 Grab collar
+      2.1.1.2 Unclip collar
+      2.1.1.3 Put on doggo
+      2.1.1.4 Clip collar
+  2.2 Put on doggo jacket
+    2.2.1 Grab doggo jacket
+    2.2.2 Velcro Neck
+    2.2.3 Velcro Body
