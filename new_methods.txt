@@ -1,0 +1,22 @@
+Class: Car
+
+Methods:
+
+display_make: (returns value of make)
+display_description: (displays strings of year + make + model)
+motor_size: (returns value of num_cylinders)
+add_passenger: (adds 1 to passengers)
+lets_tow: (changes has_hitch to true)
+remove_hood: (removes "Hood" from array of door_types)
+
+
+
+Instance: Ford Focus
+
+display_make: ("Ford")
+display_description: ("2013 Ford Focus")
+
+motor_size: (4)
+add_passenger: (2 + 1 = 3)
+lets_tow: (true)
+remove_hood: [ "Driver", "Hatch", "Passenger" ]

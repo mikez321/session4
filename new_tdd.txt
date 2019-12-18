@@ -1,0 +1,49 @@
+Top Down Design:  How to draw an owl
+
+1 Get Supplies
+  1.1 Get Paper
+    1.1.1 Open paper drawer
+    1.1.2 Select owl paper file
+    1.1.3 Remove owl Paper
+    1.1.4 Close paper drawer
+  1.2 Get Pencil
+    1.2 Get Pencil From desk
+    1.3 Sharpen Pencil
+      1.3.1 Get Pencil Sharpener
+      1.3.2 Put Pencil in Sharpener
+      1.3.3 Sharpen Pencil to Fine Tip
+  1.3 Put everything on desk
+    1.3.1 Put owl paper on desk
+    1.3.2 Put pencil on desk
+
+2 Draw owl
+  2.1 Draw Owl Head
+    2.1.1 Draw Owl Head Shape
+    2.1.2 Draw Owl Beak
+      2.1.2.1 Draw Upper Beak
+      2.1.2.2 Draw Lower Beak
+    2.1.3 Draw Owl Eyes
+      2.1.3.1 Draw Owl Eyelids
+      2.1.3.2 Draw Owl Eyelashes
+      2.1.3.3 Draw Owl Eye details
+    2.1.4 Draw owl Head details
+      2.1.4.1 Draw feathers
+      2.1.4.2 Shade Head
+  2.2 Draw Owl Body
+    2.2.1 Draw Owl Body Shape
+    2.2.2 Draw owl wings
+      2.2.2.1 Draw Wingtip feathers
+      2.2.2.2 Draw Wing details
+      2.2.2.3 Shade Wings
+    2.2.3 Drawl owl body details
+      2.2.3.1 Draw owl feathers
+      2.2.3.2 Shade Owl body
+  2.3 Draw Owl Feet
+    2.3.1 Draw Owl legs
+      2.3.1.1 Shade Owl legs
+      2.3.1.2 Draw leg details
+    2.3.2 Draw Owl toes
+      2.3.2.1 Draw right toes gripping branch
+      2.3.2.1 Draw left toes gripping snack
+    2.3.3 Draw owl talons
+      
