@@ -1,0 +1,22 @@
+Class:  Car
+
+Attributes:
+
+make (string)
+model (string)
+year (integer)
+num_cylinders (integer)
+passengers (integer)
+has_hitch (boolean)
+door_types (array)
+
+
+Instance: Ford Focus
+
+make: "Ford"
+model: "Focus"
+year: 2013
+num_cylinders: 4
+passengers: 2
+has_hitch: false
+door_types: ["Driver", "Hatch", "Passenger", "Hood"]
